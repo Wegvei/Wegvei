@@ -1,0 +1,6 @@
+data/io.github.Wegvei.desktop.in
+data/io.github.Wegvei.appdata.xml.in
+data/io.github.Wegvei.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

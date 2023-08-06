@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="wegvei">
+	<schema id="io.github.Wegvei" path="/io/github/Wegvei/">
+    <key name="models" type="s">
+      <default>'{"NoApi":{"Url":"http://nobg.pythonanywhere.com/api/"}}'</default>
+    </key>
+	  <key name="chosen-model" type="s">
+      <default>"NoApi"</default>
+    </key>
+	</schema>
+</schemalist>

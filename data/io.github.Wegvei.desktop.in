@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=wegvei
+Exec=wegvei
+Icon=io.github.Wegvei
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
