@@ -3,7 +3,27 @@
 	<id>io.github.Wegvei.desktop</id>
 	<metadata_license>CC0-1.0</metadata_license>
 	<project_license>GPL-3.0-or-later</project_license>
+	<name>Wegvei</name>
 	<description>
-	  <p>No description</p>
+	  <p>A simple gnome application for easy background removal</p>
 	</description>
+	<summary>Background removal program</summary>
+	<screenshots>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/Wegvei/Wegvei/master/data/screenshots/screenshot1.png</image>
+			<caption>removing the background on the bird image</caption>
+		</screenshot>
+	</screenshots>
+	<url type="homepage">https://github.com/Wegvei/Wegvei</url>
+	<url type="bugtracker">https://github.com/Wegvei/Wegvei/issues</url>
+	<content_rating type="oars-1.0" />
+	<releases>
+		<release version="0.1" date="2023-08-8">
+			<description>
+				<p>Background removal</p>
+			</description>
+		</release>
+	</releases>
+	<developer_name>Qwersyk</developer_name>
+	<update_contact>qsk@gmx.at</update_contact>
 </component>
